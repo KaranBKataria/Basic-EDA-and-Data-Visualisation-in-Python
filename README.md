@@ -2,7 +2,7 @@
 
 This project involves performing Explanatory Data Analysis on a dataset called "The Next Bechdel Test". 
 
-The purpose of this project was to analyse the representation of race and gender in 50 Hollywood movies using criteria from the following 3 tests: Bechdel test, Ko test.
+The purpose of this project was to analyse the representation of race and gender in 50 Hollywood movies using criteria from the following 3 tests: Bechdel test, Ko test
 & Waithe test. If a movie passes either one of the three tests, it was given a score of 1 or 0 if it failed to meet the tests' criteria.
 
 --The Bechdel Test:--
