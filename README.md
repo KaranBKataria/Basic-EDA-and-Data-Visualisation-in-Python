@@ -8,19 +8,29 @@ The purpose of this project was to analyse the representation of race and gender
 --The Bechdel Test:--
 
 In order for a movie to pass the Bechdel test, it must satisfy the following criteria:
+
       1) The movie has AT LEAST 2 NAMED female characters
+      
       2) Those characters have AT LEAST 1 conversation that is NOT about a man
 
 --The Ko Test:--
 
 In order for a movie to pass the Ko test, it must satisfy the following criteria:
+
       1) There is a non-white, female-identifying person in the film
+      
       2) This character speaks in AT LEAST 5 scenes
+      
       3) This character speaks ENGLISH
  
 -- The Wraithe Test:--
 
 In order for a movie to pass the Waithe test, it must satisy the following criteria:
+
       1) There is a black woman in the movie 
+      
       2) This character is in a position of power 
+      
       3) This character is in a healthy relationship within the movie 
+      
+Each movie was ranked by the total score which was calculated as the sum of the score of passing/failing all three tests. A movie with a total score of 3 had the highest ranking in representing race and gender according to the discussed tests. Conversely, a movie with a total score of 0 has the lowest ranking in the representation of race and gender.
