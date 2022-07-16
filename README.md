@@ -33,4 +33,4 @@ In order for a movie to pass the Waithe test, it must satisy the following crite
       
       3) This character is in a healthy relationship within the movie 
       
-Each movie was ranked by the total score which was calculated as the sum of the score of passing/failing all three tests. A movie with a total score of 3 had the highest ranking in representing race and gender according to the discussed tests. Conversely, a movie with a total score of 0 has the lowest ranking in the representation of race and gender.
+Each movie was ranked by the total score which was calculated as the sum of the score of passing/failing all three tests. A movie with a total score of 3 had the highest ranking in representing race and gender according to the discussed tests. Conversely, a movie with a total score of 0 had the lowest ranking in the representation of race and gender.
